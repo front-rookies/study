@@ -66,8 +66,9 @@ function Counter() {
 ```
 ````
 
-````
+
 #### 4️⃣ 참고 자료
+
 ```md
 ## 🔗 참고 자료
 - [React 공식 문서 - useState](https://react.dev/reference/react/useState)
